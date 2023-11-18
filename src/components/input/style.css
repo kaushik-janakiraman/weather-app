@@ -1,0 +1,17 @@
+#text-field {
+    display: block;
+    width: 60%;
+    margin: auto;
+    margin-top: 3rem;
+    font-size: large;
+    padding: 1rem;
+    border-width: 3px !important;
+    border-style: solid !important;
+    border-color: #816d63 !important;
+    border-radius: 5px;
+}
+
+#text-field:focus {
+    background-color: #efdfd6;
+    color: #493c36;
+}

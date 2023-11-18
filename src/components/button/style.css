@@ -1,0 +1,13 @@
+#btn {
+    display: block;
+    width: 150px;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+#btn:hover {
+    background-color: #efdfd6;
+    color: #493c36;
+}
